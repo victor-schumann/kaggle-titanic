@@ -4,7 +4,7 @@
 ## Attempt [#1](titanic-python-01.ipynb)
 
  <p align="center"> 
- <a href="https://www.kaggle.com/code/victorschumann/note-01-titanic-python" target="blank"><img align="center" src="https://img.shields.io/badge/Score-0.77511-000000?style=for-the-badge&logo=Kaggle&logoColor=white" alt="victor-schumann" height="30" width="auto"/></a>
+ <a href="https://www.kaggle.com/code/victorschumann/note-01-titanic-python" target="blank"><img align="center" src="https://img.shields.io/badge/Score-0.77511-000000?style=for-the-badge&logo=Keras&logoColor=white" alt="victor-schumann" height="30" width="auto"/></a>
 </p>
   
  
